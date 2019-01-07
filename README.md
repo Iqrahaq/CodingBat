@@ -9,8 +9,7 @@ My solutions to the CodingBat practice for both Java and Python.
     2. [WarmUp2](Java/WarmUp2/)
   <br>
 </details>
-
-
+<br>
 <details open>
   <summary>Python</summary>
     1. [WarmUp1](Python/WarmUp1/)
