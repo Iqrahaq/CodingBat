@@ -2,8 +2,6 @@
 My solutions to the CodingBat practice for both Java and Python.
 > This repository is still under construction!
 
-  1. [WarmUp1](Java/WarmUp1)
-
 <details open>
   <summary>Java</summary>
   1. [WarmUp1](Java/WarmUp1)
