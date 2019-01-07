@@ -4,13 +4,9 @@ My solutions to the CodingBat practice for both Java and Python.
 
 <details open>
   <summary>Java</summary>
-  <details>
-    <summary>1. [WarmUp1](Java/WarmUp1/)</summary>
-    <br>
-  </details>
-  <details>
-    <summary>2. [WarmUp2](Java/WarmUp2/)</summary>
-    <br>
-  </details>
+    1. [WarmUp1](Java/WarmUp1/)
+  <br>
+    2. [WarmUp2](Java/WarmUp2/)
+  <br>
 </details>
 * Python
