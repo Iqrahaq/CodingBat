@@ -4,7 +4,7 @@ My solutions to the CodingBat practice for both Java and Python.
 
 <details open>
   <summary>Java</summary>
-  1. [WarmUp1](Java/WarmUp1)
+  1. [WarmUp1](Java/WarmUp1/)
   <br>
   2. [WarmUp2](Java/WarmUp2/)
   <br>
