@@ -4,16 +4,19 @@ My solutions to the CodingBat practice for both Java and Python.
 
 <details open>
   <summary>Java</summary>
-1. [WarmUp1](Java/WarmUp1)
+1. <a href="https://github.com/Iqrahaq/CodingBat/Java/WarmUp1">
+Warm Up 1</a>
 <br>
-2. [WarmUp2](Java/WarmUp2)
+2. <a href="https://github.com/Iqrahaq/CodingBat/Java/WarmUp2">
+Warm Up 2</a>
 <br>
 </details>
 <br>
 <details open>
   <summary>Python</summary>
-1. [WarmUp1](Python/WarmUp1)
+1. <a href="https://github.com/Iqrahaq/CodingBat/Python/WarmUp1">
+Warm Up 1</a>
 <br>
-2. [WarmUp2](Python/WarmUp2)
-<br>
+2. <a href="https://github.com/Iqrahaq/CodingBat/Python/WarmUp2">
+Warm Up 2</a>
 </details>
