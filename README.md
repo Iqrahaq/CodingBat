@@ -4,43 +4,40 @@ My solutions to the CodingBat code practice for both Java and Python.
 ****
 <details open>
   <summary>Java</summary>
-    <details>
-      <summary>Level 1</summary>
-        &nbsp;&nbsp;&nbsp;&nbsp■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/WarmUp1">
+      &nbsp;&nbsp;&nbsp;&nbsp; Level 1
+        <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/WarmUp1">
         Warm Up 1</a>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/String1">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/String1">
         String 1</a>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Array1">
+        &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Array1">
         Array 1</a>
         <br>
-      </details>
-      <details>
-        <summary>Level 2</summary>
-          &nbsp;&nbsp;&nbsp;&nbsp■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/WarmUp2">
+        &nbsp;&nbsp;&nbsp;&nbsp; Level 2
+        <br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/WarmUp2">
           Warm Up 2</a>
           <br>
-          &nbsp;&nbsp;&nbsp;&nbsp■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/String2">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/String2">
           String 2</a>
           <br>
-          &nbsp;&nbsp;&nbsp;&nbsp■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Array2">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Array2">
           Array 2</a>
-        </details>
-        <details>
-          <summary>Level 3</summary>
-            &nbsp;&nbsp;&nbsp;&nbsp■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/String3">
+          <br>
+          &nbsp;&nbsp;&nbsp;&nbsp;Level 3
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/String3">
             String 3</a>
             <br>
-            &nbsp;&nbsp;&nbsp;&nbsp■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Array3">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Array3">
             Array 3</a>
-        </details>
-        <details>
-          <summary>Level 4</summary>
-            &nbsp;&nbsp;&nbsp;&nbsp■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/String4">
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;Level 4
+            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp&;nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/String4">
             String 4</a>
-          </details>
-          <br>
       <br>
 </details>
 
