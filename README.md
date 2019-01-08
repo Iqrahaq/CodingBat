@@ -34,11 +34,6 @@ My solutions to the CodingBat code practice for both Java and Python.
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Array3">
             Array 3</a>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;Level 4
-        <br>
-            &nbsp;&nbsp;&nbsp;&nbsp&;nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/String4">
-            String 4</a>
-            <br>
 </details>
 
 ****
