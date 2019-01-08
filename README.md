@@ -4,7 +4,6 @@ My solutions to the CodingBat code practice for both Java and Python.
 ****
 <details open>
   <summary>Java</summary>
-  
     <details>
       <summary>Level 1</summary>
         &nbsp;&nbsp;&nbsp;&nbsp■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/WarmUp1">
