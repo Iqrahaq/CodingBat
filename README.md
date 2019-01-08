@@ -33,7 +33,7 @@ My solutions to the CodingBat code practice for both Java and Python.
             <br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Array3">
             Array 3</a>
-            <br>
+        <br>
         &nbsp;&nbsp;&nbsp;&nbsp;Level 4
         <br>
             &nbsp;&nbsp;&nbsp;&nbsp&;nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/String4">
