@@ -31,6 +31,7 @@ My solutions to the CodingBat practice for both Java and Python.
       <br>
       2. <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Python/WarmUp2">
       Warm Up 2</a>
+      <br>
       3. <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Python/String1">
       String 1</a>
       <br>
