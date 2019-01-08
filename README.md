@@ -1,5 +1,5 @@
 # CodingBat
-My solutions to the CodingBat practice for both Java and Python.
+My solutions to the CodingBat code practice for both Java and Python.
 
 ****
 <details open>
