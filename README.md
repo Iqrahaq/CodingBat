@@ -1,6 +1,5 @@
 # CodingBat
 My solutions to the CodingBat practice for both Java and Python.
-> This repository is still under construction!
 
 ****
 <details open>
@@ -47,3 +46,5 @@ My solutions to the CodingBat practice for both Java and Python.
 </details>
 
 ****
+
+> This repository is still under construction!
