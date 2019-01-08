@@ -14,6 +14,16 @@ My solutions to the CodingBat code practice for both Java and Python.
             <br>
             &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Array1">
             Array 1</a>
+            &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Logic1">
+            Logic 1</a>
+            &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/AP1">
+            AP 1</a>
+            &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Recursion1">
+            Recursion 1</a>
+            &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Map1">
+            Map 1</a>
+            &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Functional1">
+            Functional 1</a>
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp; Level 2
         <br>
@@ -25,6 +35,14 @@ My solutions to the CodingBat code practice for both Java and Python.
             <br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Array2">
             Array 2</a>
+            &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Logic2">
+            Logic 2</a>
+            &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/AP2">
+            AP 2</a>
+            &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Map2">
+            Map 2</a>
+            &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/Functional2">
+            Functional 2</a>
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;Level 3
         <br>
