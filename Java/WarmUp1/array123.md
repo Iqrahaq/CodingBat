@@ -1,4 +1,4 @@
-```
+```java
 package com.haq;
 
 public class Main {
