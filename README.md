@@ -2,6 +2,7 @@
 My solutions to the CodingBat practice for both Java and Python.
 > This repository is still under construction!
 
+___
 <details open>
   <summary>Java</summary>
       ■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Java/WarmUp1">
@@ -23,7 +24,9 @@ My solutions to the CodingBat practice for both Java and Python.
       Array 2</a>
       <br>
 </details>
+___
 <br>
+___
 <details open>
   <summary>Python</summary>
       ■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Python/WarmUp1">
@@ -42,3 +45,4 @@ My solutions to the CodingBat practice for both Java and Python.
       Array 1</a>
       <br>
 </details>
+___
