@@ -37,4 +37,8 @@ My solutions to the CodingBat practice for both Java and Python.
       <br>
       ■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Python/String2">
       String 2</a>
+      <br>
+      ■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Python/Array1">
+      Array 1</a>
+      <br>
 </details>
