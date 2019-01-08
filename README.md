@@ -27,7 +27,6 @@ My solutions to the CodingBat practice for both Java and Python.
 
 ****
 
-<br>
 <details open>
   <summary>Python</summary>
       ■ <a href="https://github.com/Iqrahaq/CodingBat/tree/master/Python/WarmUp1">
