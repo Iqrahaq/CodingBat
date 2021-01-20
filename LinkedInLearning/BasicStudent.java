@@ -1,14 +1,14 @@
 import java.util.Scanner;
 
-public class Main{
+public class BasicStudent {
     public static void main(String[] args) {
-        int studentAge = 15;
+        int studentAge = 23;
         double studentGPA = 3.45;
         boolean hasPerfectAttendance = true;
 
 
-        String studentFirstName = "John";
-        String studentLastName = "Smith";
+        String studentFirstName = "Iqra";
+        String studentLastName = "Haq";
         char studentFirstInitial = studentFirstName.charAt(0);
         char studentLastInitial = studentLastName.charAt(0);
 
