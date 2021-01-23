@@ -1,3 +1,5 @@
+package BaJP;
+
 import java.util.Scanner;
 
 public class ChallengeTwo {

@@ -1,3 +1,5 @@
+package BaJP;
+
 public class ChallengeThree {
 
     public static double calculateEmployeeSalary(double hoursPerWeek, double ratePerHour, double vacationDays){

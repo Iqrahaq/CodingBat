@@ -1,3 +1,5 @@
+package BaJP;
+
 public class FunctionsTwo {
 
     public static double calculateTotalMealPrice(double listedMealPrice, double tipRate, double taxRate){
