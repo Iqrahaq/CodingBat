@@ -22,7 +22,8 @@ public class quizActivity extends AppCompatActivity {
         Intent intent = getIntent();
         user = intent.getStringExtra("username");
         pass = intent.getStringExtra("password");
-        if(user != null){
+
+        if(user != null) {
             question.setText("Hello Again: " + user);
         }
     }

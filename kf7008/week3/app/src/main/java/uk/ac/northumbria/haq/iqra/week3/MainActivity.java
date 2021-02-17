@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         username = (EditText) findViewById(R.id.username);
         password = (EditText) findViewById(R.id.password);
+
     }
 
     public void Accept_Clicked(View view){
