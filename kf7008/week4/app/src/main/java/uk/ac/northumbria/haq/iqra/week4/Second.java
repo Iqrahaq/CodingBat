@@ -5,21 +5,39 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.CompoundButton;
+import android.widget.NumberPicker;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
+import android.widget.TextView;
 
 public class Second extends AppCompatActivity implements RadioGroup.OnCheckedChangeListener {
 
     int result = 0;
+    String country[] = {"UK", "Denmark", "France", "Germany"};
+    TextView answer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
+        answer = (TextView) findViewById(R.id.answer);
 
         RadioGroup rg = (RadioGroup) findViewById(R.id.radioGroup);
         // assert rg != null;
         rg.setOnCheckedChangeListener(this);
+
+        NumberPicker np = (NumberPicker) findViewById(R.id.numberPicker);
+        np.setMinValue(1);
+        np.setMaxValue(98);
+
+        //np.setDisplayedValues(country);
+        np.setOnValueChangedListener(new NumberPicker.OnValueChangeListener() {
+            @Override
+            public void onValueChange(NumberPicker picker, int oldVal, int newVal) {
+                answer.setText("" + newVal);
+            }
+        });
+        //
     }
 
     @Override
@@ -53,7 +71,5 @@ public class Second extends AppCompatActivity implements RadioGroup.OnCheckedCha
     public void checkAnswer(View view){
 
     }
-
-
 
 }
